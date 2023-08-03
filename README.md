@@ -6,6 +6,9 @@
 	Table of content
 </head>
 <body>
-<h1>Introduce to problems</h1>
+<h2>Introduce to problems</h2>
+<ol>
+	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Weird-Algorithm.cpp" target = "_self">Weird algorithm</a></li>
+</ol>
 </body>
 </html>
