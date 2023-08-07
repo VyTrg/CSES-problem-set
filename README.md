@@ -11,7 +11,7 @@
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Weird-Algorithm.cpp" target = "_self">Weird algorithm</a></li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Missing_number.cpp" target = "_self">Missing number</a></li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Repetitions.cpp" target = "_self">Repetitions</a></li>
-	<li>Increasing array</li>
+	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Increasing_array.cpp" target = "_self">Increasing array</li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Permutations.cpp" target = "_self">Permutations</a></li>
 </ol>
 </body>
