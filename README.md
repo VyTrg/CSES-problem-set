@@ -13,6 +13,7 @@
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Repetitions.cpp" target = "_self">Repetitions</a></li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Increasing_array.cpp" target = "_self">Increasing array</li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Permutations.cpp" target = "_self">Permutations</a></li>
+	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Number_spiral.cpp" target = "_self">Number Spiral</a></li>
 </ol>
 </body>
 </html>
