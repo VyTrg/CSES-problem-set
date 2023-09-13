@@ -14,6 +14,9 @@
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Increasing_array.cpp" target = "_self">Increasing array</li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Permutations.cpp" target = "_self">Permutations</a></li>
 	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Number_spiral.cpp" target = "_self">Number Spiral</a></li>
+	<li><a href = "" target = "_self">Two Knights</a></li>
+	<li><a href = "" target = "_self">Two Sets</a></li>
+	<li><a href = "https://github.com/VyTrg/CSES-problem-set/blob/main/Bit_strings.cpp" target = "_self">Bit Strings</a></li>
 </ol>
 </body>
 </html>
